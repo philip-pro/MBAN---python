@@ -3,10 +3,10 @@
 """
 Created on Thu Sep 20 17:33:50 2018
 
-@author: chase.kusterer
+@author: Philip Prohaska
 
 Working Directory:
-/Users/chase.kusterer/Desktop/Chase/Special
+/Users/philip.prohaska/Desktop/
 
 Purpose:
     To analyze the Ames, Iowa housing dataset and predict home prices.
